@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/set_button"
+        android:icon="@drawable/ic_done_black_24dp"
+        app:showAsAction="ifRoom"
+        android:title="Set" />
+    <item
+        android:id="@+id/cancel_button"
+        android:icon="@drawable/ic_clear_black_24dp"
+        app:showAsAction="ifRoom"
+        android:title="Cancel" />
+</menu>

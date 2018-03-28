@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mr. StandBy</string>
+    <string name="findContact">App</string>
+    <string name="message">Click on menu for Menu Demo</string>
+    <string name="blocklist">Blocklist</string>
+    <string name="exceptions">Exceptions</string>
+    <string name="schedule">Schedule</string>
+    <string name="enable">StandBy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
